@@ -140,3 +140,4 @@ def password_validation(p, errors=[]):
 
 if __name__ == '__main__':
     app.run(debug=True, port=8001)# forgot_password
+# forget_password_redirectcode
